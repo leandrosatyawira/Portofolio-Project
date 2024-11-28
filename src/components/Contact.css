@@ -1,0 +1,36 @@
+.contact-section {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .contact-card {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    text-align: left;
+  }
+  
+  .contact-card p {
+    margin: 15px 0;
+    font-size: 16px;
+    display: flex;
+    align-items: center; /* Align text and icons vertically */
+  }
+  
+  .contact-card .contact-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px; /* Space between the icon and the text */
+  }
+  
+  .contact-card a {
+    color: #0073b1; /* LinkedIn blue color */
+    text-decoration: none;
+  }
+  
+  .contact-card a:hover {
+    text-decoration: underline;
+  }
+  
