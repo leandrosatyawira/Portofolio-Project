@@ -37,7 +37,7 @@ const Projects = () => {
       image: "/assets/TicTacToe.png",
       title: "Tic Tac Toe",
       description: "A Web Based Classic Game of Tic Tac Toe, built with React",
-      link: "https://github.com/leandrosatyawira/JCC-Simple-Responsive-Website",
+      link: "https://github.com/leandrosatyawira/TicTacToe",
     },
   ];
 
